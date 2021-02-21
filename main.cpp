@@ -1,6 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "This is a game of chess!" << std::endl;
+    cout << "This is a game of chess!" << endl;
 }
